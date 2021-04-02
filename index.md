@@ -1,3 +1,29 @@
+## Introduction
+
+Hi! I'm Joshua, a 2nd year Cognitive Science major and Computer Science minor at the University of California, San Diego. I'm interested in research concerning computer vision, NLP, and aspects of cognition. 
+
+## Projects
+
+### ACM Quiz Time
+
+### Kickstarter Data Analysis
+
+### DataHacks
+
+## Skills
+
+- Languages: Python, Java, C, C++, Typescript, HTML/CSS, SQL, LaTeX, Matlab, ARM Assembly, Bash
+- Technologies: Git, GDB, Valgrind, React, Node.js, Socket.IO, Pandas, Matplotlib, Keras, TensorFlow, Sklearn
+
+## Goals for the Future
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
+
+## More about Me
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/joshua-j-hong/User-Page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
