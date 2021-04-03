@@ -23,12 +23,12 @@ At DataHacks 2020, a hackathon held by DS3 at UCSD, I worked in a team of 3 to a
 
 ## Goals for the Future
 
-- [ ] Participate in an open source project
-- [ ] Get GPU acceleration working so I can tinker with state of the art AI models
-- [ ] Participate in an AI contest
-- [ ] Think of and work on a passion project
-- [ ] Make a reddit/discord bot
-- [ ] Graduate?
+[ ] Participate in an open source project
+[ ] Get GPU acceleration working so I can tinker with state of the art AI models
+[ ] Participate in an AI contest
+[ ] Think of and work on a passion project
+[ ] Make a reddit/discord bot
+[ ] Graduate?
 
 ## More about Me
 
