@@ -6,6 +6,8 @@ Hi! I'm Joshua, a 2nd year Cognitive Science major and Computer Science minor at
 
 ### ACM Quiz Time
 
+![Image](pictures/figma.png)
+
 Paricipating in ACM Side Projects, I worked in a 6 person team to design and create a multiplayer quiz app that supports quiz creation and room hosting. Specificially, I used Node.js, Express, Socket.IO, and MongoDB to provide backend server functionality for the app. My group demoed the app to over 50 ACM members and successfully held a test quiz game with roughly **30** concurrent players. 
 
 ### Kickstarter Data Analysis
