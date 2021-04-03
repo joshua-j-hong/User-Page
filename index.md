@@ -4,6 +4,13 @@ Hi! I'm Joshua, a 2nd year Cognitive Science major and Computer Science minor at
 
 # Projects
 
+## [COGS 118 Classification Analysis](Final_paper.pdf)
+
+![Image](pictures/cogs118.png)
+
+For the final project of COGS 118A: Supervised Machine Learning Algorithms, I compared the performance of a variety of classification algorithms on a series of novel datasets. The purpose of this analysis is to verify the findings of past papers on general algorithm performance, which is generally achieved by my findings. 
+
+
 ## [ACM Quiz Time](https://github.com/acmucsd/acm-kahoot)
 
 ![Image](pictures/figma.png)
@@ -31,17 +38,34 @@ At DataHacks 2020, a hackathon held by DS3 at UCSD, I worked in a team of 3 to a
 
 # Goals for the Future
 
-[ ] Participate in an open source project
-[ ] Get GPU acceleration working so I can tinker with state of the art AI models
-[ ] Participate in an AI contest
-[ ] Think of and work on a passion project
-[ ] Make a reddit/discord bot
-[ ] Graduate?
+- [ ] Participate in an open source project
+- [ ] Get GPU acceleration working so I can tinker with state of the art AI models
+- [ ] Participate in an AI contest
+- [ ] Think of and work on a passion project
+- [ ] Make a reddit/discord bot
+- [ ] Do more internships
+- [ ] Contribute significantly to an academic paper
+- [ ] Graduate?
 
 # More about Me
 
 
 
+
+In my free time, I enjoy reading books, ranging from high fantasy to nonfiction. Recently, I've been reading *Catch-22* as well as *Wheel of Time*. I also play a variety of video games, with some of my favorites being Celeste and Hollow Knight. Additionally, I'm a big fan of animated media, so I try to keep up to date on the latest Pixar movies and other shows. 
+
+I'm also interested in humorous programming languages such as ArnoldC, depicted below:
+
+```
+IT'S SHOWTIME
+TALK TO THE HAND "hello world"
+YOU HAVE BEEN TERMINATED
+```
+
+
+As Victor Hugo said, 
+
+> The future has several names. For the weak, it is impossible; for the fainthearted, it is unknown; but for the valiant, it is ideal.
 
 
 ## Welcome to GitHub Pages
