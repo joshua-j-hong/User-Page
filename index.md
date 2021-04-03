@@ -4,7 +4,7 @@ Hi! I'm Joshua, a 2nd year Cognitive Science major and Computer Science minor at
 
 # Projects
 
-## ACM Quiz Time
+## [ACM Quiz Time](https://github.com/acmucsd/acm-kahoot)
 
 ![Image](pictures/figma.png)
 
@@ -12,11 +12,17 @@ Paricipating in ACM Side Projects, I worked in a 6 person team to design and cre
 
 ## Kickstarter Data Analysis
 
+![Image](pictures/kickstarter.png)
+
 As a final project for COGS 108: Data Science in Practice, my group of 4 analyzed a dataset of kickstarter projects to explore spatial trends for project success. Using a variety of python libraries, we cleaned the required datasets, mapped geospatial information, and displayed the results of our analysis with visual representations. Additionally, we utilized classification algorithms to predict project success, achieving 80% accuracy with our best model. 
 
-## DataHacks
+## [DataHacks](https://github.com/annieteaaa/DataHacks2020/blob/master/Dataset/Datahacks%202020%20Report.pdf)
+
+![Image](pictures/data1.png)
 
 At DataHacks 2020, a hackathon held by DS3 at UCSD, I worked in a team of 3 to analyze a given dataset on population data in San Diego. Using Pandas, Numpy and Motplotlib, we cleaned and analyzed high dimensional data to determine possible relationships between different variables. We presented our findings to a panel of judges along with a writeup on methods used and won the Beginner Track of the event. 
+
+![Image](pictures/data2.png)
 
 # Skills
 
