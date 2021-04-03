@@ -1,29 +1,29 @@
-## Introduction
+# Introduction
 
 Hi! I'm Joshua, a 2nd year Cognitive Science major and Computer Science minor at the University of California, San Diego. I'm interested in research concerning computer vision, NLP, and aspects of cognition. 
 
-## Projects
+# Projects
 
-### ACM Quiz Time
+## ACM Quiz Time
 
 ![Image](pictures/figma.png)
 
 Paricipating in ACM Side Projects, I worked in a 6 person team to design and create a multiplayer quiz app that supports quiz creation and room hosting. Specificially, I used Node.js, Express, Socket.IO, and MongoDB to provide backend server functionality for the app. My group demoed the app to over 50 ACM members and successfully held a test quiz game with roughly **30** concurrent players. 
 
-### Kickstarter Data Analysis
+## Kickstarter Data Analysis
 
 As a final project for COGS 108: Data Science in Practice, my group of 4 analyzed a dataset of kickstarter projects to explore spatial trends for project success. Using a variety of python libraries, we cleaned the required datasets, mapped geospatial information, and displayed the results of our analysis with visual representations. Additionally, we utilized classification algorithms to predict project success, achieving 80% accuracy with our best model. 
 
-### DataHacks
+## DataHacks
 
 At DataHacks 2020, a hackathon held by DS3 at UCSD, I worked in a team of 3 to analyze a given dataset on population data in San Diego. Using Pandas, Numpy and Motplotlib, we cleaned and analyzed high dimensional data to determine possible relationships between different variables. We presented our findings to a panel of judges along with a writeup on methods used and won the Beginner Track of the event. 
 
-## Skills
+# Skills
 
 - Languages: Python, Java, C, C++, Typescript, HTML/CSS, SQL, LaTeX, Matlab, ARM Assembly, Bash
 - Technologies: Git, GDB, Valgrind, React, Node.js, Socket.IO, Pandas, Matplotlib, Keras, TensorFlow, Sklearn
 
-## Goals for the Future
+# Goals for the Future
 
 [ ] Participate in an open source project
 [ ] Get GPU acceleration working so I can tinker with state of the art AI models
@@ -32,7 +32,7 @@ At DataHacks 2020, a hackathon held by DS3 at UCSD, I worked in a team of 3 to a
 [ ] Make a reddit/discord bot
 [ ] Graduate?
 
-## More about Me
+# More about Me
 
 
 
