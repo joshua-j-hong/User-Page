@@ -66,3 +66,7 @@ YOU HAVE BEEN TERMINATED
 As Victor Hugo said, 
 
 > The future has several names. For the weak, it is impossible; for the fainthearted, it is unknown; but for the valiant, it is ideal.
+
+
+
+The README for this repository can be found [HERE](README.md)
